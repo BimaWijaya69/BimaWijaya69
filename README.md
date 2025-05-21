@@ -1,7 +1,7 @@
-<h1 align="center">🔥 Ngoding Dulu, Jagonya Belakangan! 🚀</h1>
+<h1 align="center">⏳ Loading Skill... Please Wait! 🕹️</h1>
 
 <p align="center">
-  <strong>Ngopi dulu ☕, lalu bikin kode keren sampai lupa waktu!</strong>
+  <strong>🔥 Ngoding Dulu, Jagonya Belakangan! 🚀</strong>
 </p>
 
 <p align="center">
