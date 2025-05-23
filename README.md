@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🎓 Student of Information Technology at Politeknik Negeri Malang<br>- 💻 Front-End Developer | Laravel Enthusiast<br>- 🌱 Currently building interactive web apps with Laravel, Blade</p>
+<p align="left">- 🎓 Student of Information Technology at Politeknik Negeri Malang<br>- 💻 Laravel Enthusiast<br>- 🌱 Currently building interactive web apps with Laravel, Blade</p>
 
 ###
 
