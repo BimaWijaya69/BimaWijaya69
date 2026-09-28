@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! I'm Bima Wijaya</h2>
+<h2 align="left">Hi there! Bima here</h2>
 
 ###
  
@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">- 🎓 Student of Information Technology at Politeknik Negeri Malang<br>- 💻 Laravel Enthusiast<br>- 🌱 Currently building interactive web apps with Laravel, Blade</p>
+<p align="left">Associate Degree Information Technology at Politeknik Negeri Malang<br>Web & Mobile Developer<br></p>
 
 ###
 
-<h6 align="left">💡Tech Stack</h6>
+<h6 align="left">Tech Stack</h6>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h6 align="left">💬 Social</h6>
+<h6 align="left">Know Me</h6>
 
 ###
 
