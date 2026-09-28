@@ -1,8 +1,8 @@
-<h2 align="left">Hi there! I'm Bima Wijaya 🌟</h2>
+<h2 align="left">Hi there! I'm Bima Wijaya</h2>
 
 ###
  
-<h6 align="left">👨‍💻 About Me</h6>
+
 
 ###
 
